@@ -1,0 +1,38 @@
+<annotation>
+	<folder>picss</folder>
+	<filename>000336.jpg</filename>
+	<path>E:\picss\000336.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>grey spot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2011</xmin>
+			<ymin>6</ymin>
+			<xmax>2204</xmax>
+			<ymax>339</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>grey spot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2063</xmin>
+			<ymin>361</ymin>
+			<xmax>2648</xmax>
+			<ymax>1283</ymax>
+		</bndbox>
+	</object>
+</annotation>

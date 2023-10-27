@@ -1,0 +1,74 @@
+<annotation>
+	<folder>截图</folder>
+	<filename>000135.jpg</filename>
+	<path>C:\Users\Alice\Desktop\截图\000135.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3016</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>grey spot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1462</xmin>
+			<ymin>1051</ymin>
+			<xmax>1634</xmax>
+			<ymax>1240</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>grey spot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1296</xmin>
+			<ymin>1677</ymin>
+			<xmax>1344</xmax>
+			<ymax>1748</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>grey spot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1533</xmin>
+			<ymin>2737</ymin>
+			<xmax>1585</xmax>
+			<ymax>2832</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>grey spot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1629</xmin>
+			<ymin>2970</ymin>
+			<xmax>1694</xmax>
+			<ymax>3090</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>grey spot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1655</xmin>
+			<ymin>3367</ymin>
+			<xmax>1772</xmax>
+			<ymax>3492</ymax>
+		</bndbox>
+	</object>
+</annotation>

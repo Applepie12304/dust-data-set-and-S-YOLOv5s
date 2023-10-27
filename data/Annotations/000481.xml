@@ -1,0 +1,38 @@
+<annotation>
+	<folder>总数据集</folder>
+	<filename>000481.jpg</filename>
+	<path>C:\Users\Alice\Desktop\总数据集\000481.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>reflection</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1340</xmin>
+			<ymin>2580</ymin>
+			<xmax>1878</xmax>
+			<ymax>3742</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>ash pile</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1138</xmin>
+			<ymin>851</ymin>
+			<xmax>2478</xmax>
+			<ymax>1840</ymax>
+		</bndbox>
+	</object>
+</annotation>

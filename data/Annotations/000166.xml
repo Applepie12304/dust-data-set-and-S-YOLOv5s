@@ -1,0 +1,26 @@
+<annotation>
+	<folder>标注原图</folder>
+	<filename>000166.jpg</filename>
+	<path>E:\标注原图\000166.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2822</width>
+		<height>2495</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>grey spot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1918</xmin>
+			<ymin>1668</ymin>
+			<xmax>2126</xmax>
+			<ymax>1890</ymax>
+		</bndbox>
+	</object>
+</annotation>

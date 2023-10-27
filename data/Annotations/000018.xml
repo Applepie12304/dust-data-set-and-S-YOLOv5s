@@ -1,0 +1,26 @@
+<annotation>
+	<folder>截图</folder>
+	<filename>000195.jpg</filename>
+	<path>C:\Users\Alice\Desktop\截图\000195.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3016</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>grey spot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1312</xmin>
+			<ymin>1517</ymin>
+			<xmax>1479</xmax>
+			<ymax>1672</ymax>
+		</bndbox>
+	</object>
+</annotation>

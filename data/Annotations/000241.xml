@@ -1,0 +1,26 @@
+<annotation>
+	<folder>selpics</folder>
+	<filename>000241.jpg</filename>
+	<path>C:\Users\Alice\Desktop\数据集2\selpics\000241.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ash pile</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1475</xmin>
+			<ymin>2008</ymin>
+			<xmax>2521</xmax>
+			<ymax>2900</ymax>
+		</bndbox>
+	</object>
+</annotation>

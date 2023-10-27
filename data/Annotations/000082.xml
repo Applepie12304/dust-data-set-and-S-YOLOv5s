@@ -1,0 +1,38 @@
+<annotation>
+	<folder>截图</folder>
+	<filename>000082.jpg</filename>
+	<path>C:\Users\Alice\Desktop\截图\000082.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1440</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>grey spot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1624</xmin>
+			<ymin>1085</ymin>
+			<xmax>1684</xmax>
+			<ymax>1169</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>grey spot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>305</xmin>
+			<ymin>740</ymin>
+			<xmax>433</xmax>
+			<ymax>894</ymax>
+		</bndbox>
+	</object>
+</annotation>

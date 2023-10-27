@@ -1,0 +1,26 @@
+<annotation>
+	<folder>总数据集</folder>
+	<filename>000058.jpg</filename>
+	<path>C:\Users\Alice\Desktop\总数据集\000058.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>reflection</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2111</xmin>
+			<ymin>2263</ymin>
+			<xmax>2515</xmax>
+			<ymax>2534</ymax>
+		</bndbox>
+	</object>
+</annotation>

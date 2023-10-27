@@ -1,0 +1,38 @@
+<annotation>
+	<folder>截图</folder>
+	<filename>000137.jpg</filename>
+	<path>C:\Users\Alice\Desktop\截图\000137.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3349</width>
+		<height>2292</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ash pile</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1360</xmin>
+			<ymin>869</ymin>
+			<xmax>1662</xmax>
+			<ymax>1502</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>ash pile</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1979</xmin>
+			<ymin>221</ymin>
+			<xmax>2184</xmax>
+			<ymax>402</ymax>
+		</bndbox>
+	</object>
+</annotation>

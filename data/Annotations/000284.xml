@@ -1,0 +1,50 @@
+<annotation>
+	<folder>picss</folder>
+	<filename>000284.jpg</filename>
+	<path>C:\Users\Alice\Desktop\数据集3\picss\000284.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>grey spot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1823</xmin>
+			<ymin>798</ymin>
+			<xmax>2311</xmax>
+			<ymax>1298</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>grey spot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2126</xmin>
+			<ymin>228</ymin>
+			<xmax>2815</xmax>
+			<ymax>1080</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>grey spot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1443</xmin>
+			<ymin>2923</ymin>
+			<xmax>1507</xmax>
+			<ymax>3012</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>标注原图</folder>
+	<filename>000175jpg.jpg</filename>
+	<path>E:\标注原图\000175jpg.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1754</width>
+		<height>1265</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>grey spot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>621</xmin>
+			<ymin>412</ymin>
+			<xmax>732</xmax>
+			<ymax>541</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>grey spot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1121</xmin>
+			<ymin>1087</ymin>
+			<xmax>1236</xmax>
+			<ymax>1207</ymax>
+		</bndbox>
+	</object>
+</annotation>

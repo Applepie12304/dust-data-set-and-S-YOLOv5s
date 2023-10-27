@@ -1,0 +1,38 @@
+<annotation>
+	<folder>picss</folder>
+	<filename>000531.jpg</filename>
+	<path>C:\Users\Alice\Desktop\数据集3\picss\000531.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>reflection</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1991</xmin>
+			<ymin>1917</ymin>
+			<xmax>2596</xmax>
+			<ymax>2475</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>grey spot</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>764</xmin>
+			<ymin>2953</ymin>
+			<xmax>854</xmax>
+			<ymax>3024</ymax>
+		</bndbox>
+	</object>
+</annotation>

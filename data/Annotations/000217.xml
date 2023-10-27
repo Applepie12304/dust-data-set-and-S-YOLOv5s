@@ -1,0 +1,50 @@
+<annotation>
+	<folder>selpics</folder>
+	<filename>000217.jpg</filename>
+	<path>C:\Users\Alice\Desktop\数据集2\selpics\000217.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ash pile</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1745</xmin>
+			<ymin>315</ymin>
+			<xmax>2010</xmax>
+			<ymax>674</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>grey spot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1607</xmin>
+			<ymin>2165</ymin>
+			<xmax>1758</xmax>
+			<ymax>2369</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>grey spot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2197</xmin>
+			<ymin>1412</ymin>
+			<xmax>2297</xmax>
+			<ymax>1543</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>selpics</folder>
+	<filename>000211.jpg</filename>
+	<path>C:\Users\Alice\Desktop\数据集2\selpics\000211.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>grey spot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>356</xmin>
+			<ymin>1525</ymin>
+			<xmax>766</xmax>
+			<ymax>1927</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>grey spot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>277</xmin>
+			<ymin>1422</ymin>
+			<xmax>432</xmax>
+			<ymax>1619</ymax>
+		</bndbox>
+	</object>
+</annotation>

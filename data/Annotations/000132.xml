@@ -1,0 +1,26 @@
+<annotation>
+	<folder>picss</folder>
+	<filename>000471.jpg</filename>
+	<path>E:\picss\000471.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ash pile</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>677</xmin>
+			<ymin>652</ymin>
+			<xmax>2358</xmax>
+			<ymax>2223</ymax>
+		</bndbox>
+	</object>
+</annotation>

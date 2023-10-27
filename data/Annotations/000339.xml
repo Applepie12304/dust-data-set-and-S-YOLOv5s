@@ -1,0 +1,26 @@
+<annotation>
+	<folder>picss</folder>
+	<filename>000560.jpg</filename>
+	<path>E:\picss\000560.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>reflection</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1746</xmin>
+			<ymin>2211</ymin>
+			<xmax>2689</xmax>
+			<ymax>2834</ymax>
+		</bndbox>
+	</object>
+</annotation>

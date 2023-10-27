@@ -1,0 +1,26 @@
+<annotation>
+	<folder>picss</folder>
+	<filename>000282.jpg</filename>
+	<path>C:\Users\Alice\Desktop\数据集3\picss\000282.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2657</width>
+		<height>2457</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>reflection</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>300</xmin>
+			<ymin>437</ymin>
+			<xmax>1886</xmax>
+			<ymax>1956</ymax>
+		</bndbox>
+	</object>
+</annotation>

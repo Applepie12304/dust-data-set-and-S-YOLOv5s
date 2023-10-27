@@ -1,0 +1,38 @@
+<annotation>
+	<folder>picss</folder>
+	<filename>000423.jpg</filename>
+	<path>C:\Users\Alice\Desktop\数据集3\picss\000423.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ash pile</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>196</xmin>
+			<ymin>5</ymin>
+			<xmax>1464</xmax>
+			<ymax>1125</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>ash pile</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>204</xmin>
+			<ymin>1759</ymin>
+			<xmax>1413</xmax>
+			<ymax>2753</ymax>
+		</bndbox>
+	</object>
+</annotation>
